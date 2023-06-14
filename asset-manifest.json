@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/markusa-8-362027/react-shop/static/css/main.54dc2be1.css",
-    "main.js": "/markusa-8-362027/react-shop/static/js/main.e90c854f.js",
+    "main.js": "/markusa-8-362027/react-shop/static/js/main.b632d90a.js",
     "index.html": "/markusa-8-362027/react-shop/index.html",
     "main.54dc2be1.css.map": "/markusa-8-362027/react-shop/static/css/main.54dc2be1.css.map",
-    "main.e90c854f.js.map": "/markusa-8-362027/react-shop/static/js/main.e90c854f.js.map"
+    "main.b632d90a.js.map": "/markusa-8-362027/react-shop/static/js/main.b632d90a.js.map"
   },
   "entrypoints": [
     "static/css/main.54dc2be1.css",
-    "static/js/main.e90c854f.js"
+    "static/js/main.b632d90a.js"
   ]
 }
